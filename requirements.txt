@@ -1,0 +1,9 @@
+category-encoders
+firebase-admin
+matplotlib
+pandas
+pymysql
+scikit-learn
+scipy
+seaborn
+SQLAlchemy
